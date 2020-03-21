@@ -101,10 +101,6 @@ class Operations {
     console.log(count + " patients born in " + year);
   }
 
-  task5() {
-
-  }
-
   task9() {
     let aux = this.list.head;
     let min = 999;
