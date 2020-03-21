@@ -1,0 +1,54 @@
+{
+    "0": {
+      "name": {
+        "firstName": "Slavik",
+        "lastName": "Petrovici"
+      },
+      "birthDay": {
+        "day": 20,
+        "month": 5,
+        "year": 2000
+      },
+      "bloodType": 4,
+      "diagnostic": "Cancer"
+    },
+    "1": {
+      "name": {
+        "firstName": "Bladik",
+        "lastName": "Corbu"
+      },
+      "birthDay": {
+        "day": 17,
+        "month": 6,
+        "year": 1999
+      },
+      "bloodType": 2,
+      "diagnostic": "DTSP"
+    },
+    "2": {
+      "name": {
+        "firstName": "Lena",
+        "lastName": "Golovach"
+      },
+      "birthDay": {
+        "day": 6,
+        "month": 12,
+        "year": 1990
+      },
+      "bloodType": 2,
+      "diagnostic": "Patau"
+    },
+    "3": {
+      "name": {
+        "firstName": "Silver",
+        "lastName": "Name"
+      },
+      "birthDay": {
+        "day": 18,
+        "month": 9,
+        "year": 1992
+      },
+      "bloodType": 1,
+      "diagnostic": "Daun"
+    }
+}

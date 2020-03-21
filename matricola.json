@@ -1,0 +1,50 @@
+{
+  "0": {
+    "name": {
+      "firstName": "Slavik",
+      "lastName": "Petrovici"
+    },
+    "birthDay": {
+      "day": 17,
+      "month": 6,
+      "year": 1999
+    },
+    "height": 175
+  },
+  "1": {
+    "name": {
+      "firstName": "Bladik",
+      "lastName": "Corbu"
+    },
+    "birthDay": {
+      "day": 22,
+      "month": 11,
+      "year": 2000
+    },
+    "height": 183
+  },
+  "2": {
+    "name": {
+      "firstName": "Lena",
+      "lastName": "Golovach"
+    },
+    "birthDay": {
+      "day": 4,
+      "month": 1,
+      "year": 1990
+    },
+    "height": 150
+  },
+  "3": {
+    "name": {
+      "firstName": "Silver",
+      "lastName": "Name"
+    },
+    "birthDay": {
+      "day": 3,
+      "month": 12,
+      "year": 1995
+    },
+    "height": 177
+  }
+}
